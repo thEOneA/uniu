@@ -1,16 +1,15 @@
-## Welcome to GitHub Pages
+## Personal Information Policy of UniU: 
+
+
+###  1. Employees at UniU will not engage in any form of harmful acts through the usage of personal information.
+###  2. Users of UniU will not engage in any form of harmful acts through the usage of personal information.
+
 
 You can use the [editor on GitHub](https://github.com/thEOneA/uniu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Personal Information Policy of UniU: 
-
- 1. Employees at UniU will not engage in any form of harmful acts through the usage of personal information.
- 2. Users of UniU will not engage in any form of harmful acts through the usage of personal information. 
-
+ 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
