@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+Personal Information Policy of UniU: 
+
+ 1. Employees at UniU will not engage in any form of harmful acts through the usage of personal information.
+ 2. Users of UniU will not engage in any form of harmful acts through the usage of personal information. 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
